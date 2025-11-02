@@ -7,6 +7,6 @@
 * Automatizar la instalación y configuración de phpMyAdmin mediante scripts de Bash.
 
 ## Documentos
- [Phpadmin](./Phpadmin.md)
- [Instalar_lemp](./install_lemp.sh)
- [Instalar_phpadmin](./install_phpmyadmin.sh)
+ * [Phpadmin](./Phpadmin.md)
+ * [Instalar_lemp](./install_lemp.sh)
+ * [Instalar_phpadmin](./install_phpmyadmin.sh)
